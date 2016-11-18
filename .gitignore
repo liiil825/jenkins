@@ -1,0 +1,14 @@
+.idea/
+*/.idea/
+.DS_Store
+run_local.sh
+private/
+build/
+node_modules/
+build/
+npm-debug.log
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+dev_bundle
+
